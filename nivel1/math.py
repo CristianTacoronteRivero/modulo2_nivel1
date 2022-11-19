@@ -12,7 +12,7 @@ def sumar(number_a: float, number_b: float) -> float:
     :return: suma del numero a y b
     :rtype: float
 
-    >>> from modulo2.math import sumar
+    >>> from nivel1.math import sumar
     >>> sumar(3, 5.5)
     8.5
     """
@@ -31,11 +31,11 @@ def restar(number_a: float, number_b: float, modulo: bool = False) -> float:
     :return: resta del numero a y b
     :rtype: float
 
-    >>> from modulo2.math import restar
+    >>> from nivel1.math import restar
     >>> restar(3, 8)
     -5
 
-    >>> from modulo2.math import restar
+    >>> from nivel1.math import restar
     >>> restar(3, 8, modulo=True)
     5
     """

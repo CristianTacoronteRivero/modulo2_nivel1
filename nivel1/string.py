@@ -10,7 +10,7 @@ def minusculas(cadena_text: str) -> str:
     :return: cadena de texto en minuscula
     :rtype: str
 
-    >>> from modulo2.string import minusculas
+    >>> from nivel1.string import minusculas
     >>> minusculas("HOLA")
     'hola'
     """
@@ -25,7 +25,7 @@ def mayusculas(cadena_text: str) -> str:
     :return: cadena de texto en mayuscula
     :rtype: str
 
-    >>> from modulo2.string import mayusculas
+    >>> from nivel1.string import mayusculas
     >>> mayusculas("hola")
     'HOLA'
     """
