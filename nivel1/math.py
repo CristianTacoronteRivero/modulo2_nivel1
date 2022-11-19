@@ -1,4 +1,4 @@
-"""Clase encargada de realizar operaciones matematicas para mlops
+"""Clase encargada de realizar operaciones matematicas
 """
 
 
