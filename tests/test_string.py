@@ -1,4 +1,4 @@
-"""Tests del modulo modulo2.strings
+"""Tests nivel1.strings
 """
 from nivel1.string import minusculas, mayusculas
 

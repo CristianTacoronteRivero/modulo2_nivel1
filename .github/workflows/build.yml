@@ -1,4 +1,4 @@
-name: Workflow 2 del modulo 2 MLOps # Nombre del workflow
+name: MODULO 2 MLOPS # Nombre del workflow
 on:
   push: # FILTRO
     tags: # donde el tags contiene la siguiente expresion regular

@@ -1,4 +1,4 @@
-"""Tests del modulo modulo2.math
+"""Tests nivel1.math
 """
 from nivel1.math import sumar, restar
 
